@@ -5,8 +5,8 @@
 
 ### Who I am
 
-- **Father**: Energetic 8-year-old son and adorable twin 6-year-old daughters
-- **Husband**: Just celebrated 10 years of marriage with my highschool sweetheart
+- **Father**: Energetic 10-year-old son and adorable twin 8-year-old daughters
+- **Husband**: Just celebrated 11 years of marriage with my highschool sweetheart
 - **Outdoorsman**: Nothing better for the soul than nature
 - **Coder**: Self-taught, passionate craftsman ready to work, teach, and learn
 
@@ -26,6 +26,7 @@
 - **Node microservices**: Workhorses with dedicated purpose
 - **Unit tests**: Red light... green light... repeat...
 - **Webpack bundling**: Transpilation,  minification, hot reloading
+- **Zapier integrations**: Dynamic, CLI-based integrations
 
 ### How I work
 
@@ -38,7 +39,9 @@
 
 ### Where I have worked
 
-- **Developer @ Mylo, a Lockton Company _(Lenexa, KS)_** *Jan 2016 - Present*
+- **Senior Software Engineer @ Filevine _(Provo, UT [remote])_** *Mar 2019 - Present*
+  - Zapier integration written in NodeJS
+- **Developer @ Mylo, a Lockton Company _(Lenexa, KS)_** *Jan 2016 - Mar 2019*
   - Honing my JS skillset in React + Redux + Webpack by building buyflows, agent tools, and component libraries
 - **Software Engineer @ ABPathfinder, Inc. _(Overland Park, KS)_** *Feb 2015 - Jan 2016*
   - Applied my expertise with ExtJS, front-end design, and architecture to the Pathfinder front-end
